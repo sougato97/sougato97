@@ -32,6 +32,7 @@ I am a research-focused engineer who explores capability of present-gen AI model
   * [Low light image enhancement with denoising](https://github.com/sougato97/image_enhancement) — image restoration for tough lighting conditions
   * [Human Robot Interaction](https://github.com/hcicsebuffalo/nao_dev_LLM) — interaction experiments and LLM-assisted robot behaviors
   * [Voice authentication on BostonDynamics Spot](https://github.com/sougato97/spot_dev) — applied speech/identity workflows on a real robot
+  * [Evaluation of Kalman-Filter based SLAM Systems](https://sougato97.github.io/data/CSE_702_REPORT.pdf) - A quantitavive of system-latency vs ATE tradeoff of vision slam systems. This report doesn't incorporate recent deep-learning based systems.
 * 🌐 Portfolio / projects: [sougato97.github.io](https://sougato97.github.io/)
 * 📫 Make a personal connection :- **sougato97@live.com** (preferred) / **sougato97@gmail.com**
 * 📄 [Resume](https://sougato97.github.io/data/resume.pdf)
@@ -43,10 +44,8 @@ I am a research-focused engineer who explores capability of present-gen AI model
 <a href="https://linkedin.com/in/sougato" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sougato" height="30" width="40" /></a>
 </p>
 
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-
 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
@@ -59,14 +58,10 @@ I am a research-focused engineer who explores capability of present-gen AI model
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 </p>
 
-
 <!-- here i can add experience of mine -->
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sougato97&show_icons=true&locale=en&layout=compact" alt="sougato97" /></p>
 
-
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=sougato97&show_icons=true&locale=en" alt="sougato97" /></p>
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sougato97&" alt="sougato97" /></p>
