@@ -6,7 +6,7 @@
 
 <h3 align="center">I solve problems using top-down approach (Breadth-First-Search)</h3>
 
-<img align="right" alt="Coding" width="350" src="https://github.com/sougato97/sougato97/blob/main/cat_typing.gif">
+<!-- <img align="right" alt="Coding" width="350" src="https://github.com/sougato97/sougato97/blob/main/cat_typing.gif"> -->
 
 <!-- - 🔭 I have worked on [Human Robot Interaction](https://github.com/hcicsebuffalo) & [DronesLab](https://github.com/droneslab)  -->
 
