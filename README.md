@@ -26,24 +26,24 @@ I am a research-focused engineer who explores capability of present-gen AI model
 
 ## I'm exploring
 
-* Building knowledge graphs of people from public information. I think there is a lot of room here, and while some of this work is closed-source, I would love to collaborate.
-* Working on LLM inference layers. I am especially interested in how RAM and VRAM can be used together while keeping the GPU focused on the main model compute.
+* Building knowledge graphs of people from public information. I think there is a lot of room here. Some of this work is closed-source, but I would love to collaborate.
+* Working on LLM inference layers. I am especially interested in how RAM and VRAM can be used together while keeping the GPU focused on the main model computation.
 * Thinking a lot about whether neural networks can get closer to actual reasoning. One direction I keep coming back to is `IDEA-AS-A-TOKEN`.
-* Reading into `neuromorphic computing` and using some of those ideas as reference points for the work above.
+* Reading about neuromorphic computing and using some of those ideas as reference points for the work above.
 
 * 👨‍💻 A few projects I am building:
 
-  * [ModelServer](https://github.com/sougato97/ModelServer) - Docker-first LLM inference stack on CUDA and ROCm. Just plug-n-play.
-  * [Graphrag-OSS](https://github.com/sougato97/graphrag) - GraphRAG using ClickHouseDB and Open-Source LLM and Embedding Models.
-  * [Project-Pod](https://github.com/rollingresearch/project-pod) - Develop the knowledge-graph of a person's professional information using public info. I would welcome collaborators in the future. Currently in `brainstorming`/`init` phase.
+  * [ModelServer](https://github.com/sougato97/ModelServer) - Docker-first LLM inference stack for CUDA and ROCm. Just plug and play.
+  * [Graphrag-OSS](https://github.com/sougato97/graphrag) - GraphRAG using ClickHouseDB and open-source LLM and embedding models.
+  * [Project-Pod](https://github.com/rollingresearch/project-pod) - Developing a knowledge graph of a person's professional information from public data. I would welcome collaborators in the future. It is currently in the `brainstorming`/`init` phase.
 * 👨‍💻 Grad school work:
 
   * [Low light image enhancement with denoising](https://github.com/sougato97/image_enhancement) — image restoration for tough lighting conditions
   * [Human Robot Interaction](https://github.com/hcicsebuffalo/nao_dev_LLM) — interaction experiments and LLM-assisted robot behaviors
-  * [Voice authentication on BostonDynamics Spot](https://github.com/sougato97/spot_dev) — applied speech/identity workflows on a real robot
-  * [Evaluation of Kalman-Filter based SLAM Systems](https://sougato97.github.io/data/CSE_702_REPORT.pdf) - A quantitative of system-latency vs ATE tradeoff of vision slam systems. This report doesn't incorporate recent deep-learning based systems.
+  * [Voice authentication on Boston Dynamics Spot](https://github.com/sougato97/spot_dev) — applied speech and identity workflows on a real robot
+  * [Evaluation of Kalman-Filter based SLAM Systems](https://sougato97.github.io/data/CSE_702_REPORT.pdf) - A quantitative analysis of the system-latency vs. ATE tradeoff in vision SLAM systems. This report does not incorporate recent deep-learning-based systems.
 * 🌐 Portfolio / projects: [sougato97.github.io](https://sougato97.github.io/)
-* 📫 Make a personal connection :- **sougato97@live.com** (preferred) / **sougato97@gmail.com**
+* 📫 Let's connect: **sougato97@live.com** (preferred) / **sougato97@gmail.com**
 * 📄 [Resume](https://sougato97.github.io/data/resume.pdf)
 
 
