@@ -39,6 +39,15 @@ I am a research-focused engineer who explores capability of present-gen AI model
 
 ---
 
+## Professional Summary
+
+- At a B2B US pharma-focused health-tech startup, I served as lead engineer and reported directly to the CEO. My work included building proofs of concept, delivering technical training, and leading research for system design and development.
+  * I architected a multi-agent system that processed more than 100 GB of US pharma data. I designed its routing layer around control signals, concurrency, and clear separation of concerns.
+- At [Applied Research Works | Cozeva](https://corp.cozeva.com/), a B2B health-tech company, I worked as a Machine Learning Engineer and reported directly to the CTO. I architected AI assistants for enterprise clients that grounded responses in real data and returned source-backed answers.
+  * I also designed a medical-coding agent that extracted ICD-10 codes from doctors' notes, significantly reducing manual coding time.
+  * Earlier, as an intern, I worked with Social Determinants of Health data and handled large-scale health datasets under data-privacy laws such as HIPAA.
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sougato" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sougato" height="30" width="40" /></a>
@@ -60,8 +69,11 @@ I am a research-focused engineer who explores capability of present-gen AI model
 
 <!-- here i can add experience of mine -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sougato97&show_icons=true&locale=en&layout=compact" alt="sougato97" /></p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sougato97&theme=default" alt="sougato97 github stats" width="42%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sougato97&theme=default&exclude=Jupyter%20Notebook" alt="sougato97 most used languages by commit" width="42%" />
+</p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=sougato97&show_icons=true&locale=en" alt="sougato97" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sougato97&" alt="sougato97" /></p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sougato97&hide_border=true" alt="sougato97 github streak" width="60%" />
+</p>
