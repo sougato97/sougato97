@@ -26,16 +26,17 @@ I am a research-focused engineer who explores capability of present-gen AI model
 
 ## I'm exploring
 
-* To create knowledge-graph of a person just using their public information. The application is immnse, some of my work is closed-sopurce, but I would love collaboraters.
-* Optimize inference layers of the Language Models. How do we combine usage of RAM & VRAM but also use GPU for main LLM compute.
-* To bring the capability of thinking in a Neural-Network. PS. Transformer-CAN'T-THINK. Exploring IDEA-AS-A-TOKEN.
-* Neuromorphic Computing: Something worth mentioning. I will be taking reference from this area while solving the `IDEA-AS-A-TOKEN` , `capability of thinking in a Neural-Network`.
-* 👨‍💻 Some of my cool projects are in :-
+* Building knowledge graphs of people from public information. I think there is a lot of room here, and while some of this work is closed-source, I would love to collaborate.
+* Working on LLM inference layers. I am especially interested in how RAM and VRAM can be used together while keeping the GPU focused on the main model compute.
+* Thinking a lot about whether neural networks can get closer to actual reasoning. One direction I keep coming back to is `IDEA-AS-A-TOKEN`.
+* Reading into `neuromorphic computing` and using some of those ideas as reference points for the work above.
+
+* 👨‍💻 A few projects I am building:
 
   * [ModelServer](https://github.com/sougato97/ModelServer) - Docker-first LLM inference stack on CUDA and ROCm. Just plug-n-play.
   * [Graphrag-OSS](https://github.com/sougato97/graphrag) - GraphRAG using ClickHouseDB and Open-Source LLM and Embedding Models.
-  * [Project-Pod](https://github.com/rollingresearch/project-pod) - Develop the knowledge-graph of a person's professional information using public info. I would welcome collaborators, in the future. Currently in `brainstorming`/`init` phase.
-* 👨‍💻 Grad School work :-
+  * [Project-Pod](https://github.com/rollingresearch/project-pod) - Develop the knowledge-graph of a person's professional information using public info. I would welcome collaborators in the future. Currently in `brainstorming`/`init` phase.
+* 👨‍💻 Grad school work:
 
   * [Low light image enhancement with denoising](https://github.com/sougato97/image_enhancement) — image restoration for tough lighting conditions
   * [Human Robot Interaction](https://github.com/hcicsebuffalo/nao_dev_LLM) — interaction experiments and LLM-assisted robot behaviors
