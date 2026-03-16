@@ -14,7 +14,7 @@
 
 ## About
 
-I am a research-focused engineer who explores capability of present-gen AI models and architectures. I love spending quality time with the people I love. I remind myself everyday that don't dissapoint your 80 years self. (You-Only-Die-Once).
+I am a research-focused engineer who explores capability of present-gen AI models and architectures. I love spending quality time with the people I love. I remind myself everyday that don't disappoint your 80 years self. (You-Only-Die-Once).
 
 ## Professional Summary
 
@@ -41,7 +41,7 @@ I am a research-focused engineer who explores capability of present-gen AI model
   * [Low light image enhancement with denoising](https://github.com/sougato97/image_enhancement) — image restoration for tough lighting conditions
   * [Human Robot Interaction](https://github.com/hcicsebuffalo/nao_dev_LLM) — interaction experiments and LLM-assisted robot behaviors
   * [Voice authentication on BostonDynamics Spot](https://github.com/sougato97/spot_dev) — applied speech/identity workflows on a real robot
-  * [Evaluation of Kalman-Filter based SLAM Systems](https://sougato97.github.io/data/CSE_702_REPORT.pdf) - A quantitavive of system-latency vs ATE tradeoff of vision slam systems. This report doesn't incorporate recent deep-learning based systems.
+  * [Evaluation of Kalman-Filter based SLAM Systems](https://sougato97.github.io/data/CSE_702_REPORT.pdf) - A quantitative of system-latency vs ATE tradeoff of vision slam systems. This report doesn't incorporate recent deep-learning based systems.
 * 🌐 Portfolio / projects: [sougato97.github.io](https://sougato97.github.io/)
 * 📫 Make a personal connection :- **sougato97@live.com** (preferred) / **sougato97@gmail.com**
 * 📄 [Resume](https://sougato97.github.io/data/resume.pdf)
