@@ -69,10 +69,11 @@ I am a research-focused engineer who explores capability of present-gen AI model
 <!-- here i can add experience of mine -->
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sougato97&theme=default" alt="sougato97 github stats" width="42%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sougato97&theme=default&exclude=Jupyter%20Notebook" alt="sougato97 most used languages by commit" width="42%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sougato97&theme=default" alt="sougato97 github stats" />
+  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sougato97&theme=default&exclude=Jupyter%20Notebook" alt="sougato97 most used languages by commit" width="42%" /> -->
+  <img src="https://streak-stats.demolab.com?user=sougato97&hide_border=true" alt="sougato97 github streak"  />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=sougato97&hide_border=true" alt="sougato97 github streak" width="60%" />
-</p>
+</p> -->
