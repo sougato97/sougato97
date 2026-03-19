@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Sougato Bagchi</h1>
 
-<h3 align="center">I solve problems using top-down approach (Breadth-First-Search)</h3>
+<h3 align="center">I enjoy working with data, deep neural networks, and the systems around them.</h3>
 
 <!-- <img align="right" alt="Coding" width="350" src="https://github.com/sougato97/sougato97/blob/main/cat_typing.gif"> -->
 
@@ -15,14 +15,6 @@
 ## About
 
 I am a research-focused engineer who explores capability of present-gen AI models and architectures. I love spending quality time with the people I love. I remind myself everyday that don't disappoint your 80 years self. (You-Only-Die-Once).
-
-## Professional Summary
-
-- At a B2B US pharma-focused health-tech startup, I served as lead engineer and reported directly to the CEO. My work included building proofs of concept, delivering technical training, and leading research for system design and development.
-  * I architected a multi-agent system that processed more than 100 GB of US pharma data. I designed its routing layer around control signals, concurrency, and clear separation of concerns.
-- At [Applied Research Works | Cozeva](https://corp.cozeva.com/), a B2B health-tech company, I worked as a Machine Learning Engineer and reported directly to the CTO. I architected AI assistants for enterprise clients that grounded responses in real data and returned source-backed answers.
-  * I also designed a medical-coding agent that extracted ICD-10 codes from doctors' notes, significantly reducing manual coding time.
-  * Earlier, as an intern, I worked with Social Determinants of Health data and handled large-scale health datasets under data-privacy laws such as HIPAA.
 
 ## I'm exploring
 
@@ -45,6 +37,14 @@ I am a research-focused engineer who explores capability of present-gen AI model
 * 🌐 Portfolio / projects: [sougato97.github.io](https://sougato97.github.io/)
 * 📫 Let's connect: **sougato97@live.com** (preferred) / **sougato97@gmail.com**
 * 📄 [Resume](https://sougato97.github.io/data/resume.pdf)
+
+## Professional Summary
+
+- At a B2B US pharma-focused health-tech startup, I served as lead engineer and reported directly to the CEO. My work included building proofs of concept, delivering technical training, and leading research for system design and development.
+  * I architected a multi-agent system that processed more than 100 GB of US pharma data. I designed its routing layer around control signals, concurrency, and clear separation of concerns.
+- At [Applied Research Works | Cozeva](https://corp.cozeva.com/), a B2B health-tech company, I worked as a Machine Learning Engineer and reported directly to the CTO. I architected AI assistants for enterprise clients that grounded responses in real data and returned source-backed answers.
+  * I also designed a medical-coding agent that extracted ICD-10 codes from doctors' notes, significantly reducing manual coding time.
+  * Earlier, as an intern, I worked with Social Determinants of Health data and handled large-scale health datasets under data-privacy laws such as HIPAA.
 
 
 <h3 align="left">Connect with me:</h3>
