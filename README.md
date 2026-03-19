@@ -14,7 +14,7 @@
 
 ## About
 
-I am a research-focused engineer who explores capability of present-gen AI models and architectures. I love spending quality time with the people I love. I remind myself everyday that don't disappoint your 80 years self. (You-Only-Die-Once).
+I am a research-focused engineer who explores capability of present-gen AI models and architectures. I love spending quality time with the people I love. I try to build things my 80-year-old self would be proud of.
 
 ## I'm exploring
 
